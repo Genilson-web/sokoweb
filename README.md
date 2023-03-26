@@ -64,4 +64,6 @@ que oferece suporte para renderização de gráficos 2D e 3D.*
 
 *No teclado são utilizadas as teclas **W S A D** para movimentar o personagem. Enquanto que no celular é utilizado o controle virtual na tela do jogo.*
 
-<video src='http://atacadaopinto.ddns.net:8164/sokoban/TemplateData/tutorial.mp4'></video>
+https://user-images.githubusercontent.com/53799004/227799681-a4d92e82-a4e8-411d-b03f-ab930d3cf57e.mp4
+
+
