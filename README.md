@@ -6,7 +6,7 @@ O Sokoweb é um jogo de transporte e movimentação de caixas em uma ária.
 O objetivo é empurrar as caixas em determinadas posições marcadas na fase.
 Ao colocar cada caixa nas posições marcads, o jogador passa para a roxima fase.
 
-- **[Link para jogar online](https://genilsonweb.com/sokoweb/)**
+- **[Jogar online](https://genilsonweb.com/sokoweb/)**
 
 ## Arquitetura
 
